@@ -1,3 +1,3 @@
 # ta4xtest
-# This is at TEST of the first repository
-# Branch addition to master. Let's watch it merge.
+# 4x1 toslink digital audio switcher.
+# copyright INDAY 2017
